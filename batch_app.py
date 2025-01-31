@@ -81,8 +81,8 @@ def load_process():
     #load_cows()
     measure_no_filtered=load_data()
 
-    load_measures_milk(measure_no_filtered)
-    #load_measures_weight(measure_no_filtered)
+    #load_measures_milk(measure_no_filtered)
+    load_measures_weight(measure_no_filtered)
 
 
 
